@@ -1,5 +1,5 @@
 # smokingnorms_topicmodeling
-Research Internship, SFSU + UCSF partnership, Identify Smoking Norms in SF Bay Communities, HEART + SOUL SFSU initiative
+Research Internship, SFSU + UCSF partnership, Identify Smoking Norms in SF Bay Communities, HEART & SOUL SFSU initiative http://soullab.co/projects/
 
 The included Jupyter Notebook files includes
 1. Mine data from Reddit using Pushshift Reddit API to gather as many smoking results that match bigram queries on smoking related keywords
